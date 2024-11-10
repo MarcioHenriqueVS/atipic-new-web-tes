@@ -1,0 +1,1 @@
+ /Volumes/SSDexterno/Projetos/atipic/atipic/.dart_tool/flutter_build/fa44a71282b6fe5e3499a4dccfbd6876/native_assets.yaml: 
